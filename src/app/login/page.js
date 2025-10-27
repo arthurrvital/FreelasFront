@@ -219,7 +219,7 @@ export default function LoginPage() {
 
           {isLogin && (
             <div className="text-center">
-              <a href="/recuperar-senha" className="text-sm text-blue-600 hover:text-blue-700">
+              <a href="/forgot-password" className="text-sm text-blue-600 hover:text-blue-700">
                 Esqueci minha senha
               </a>
             </div>
